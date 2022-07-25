@@ -1,43 +1,47 @@
 ﻿Source,Currency,Fiat/Checking,Flexible/Savings,Money Market,< 30-days,30-day,60-day,90-day,180-day,12-month,18-month,24-month,36-month,48-month,60-month,Dividend,Insured,Last Update,Notes,Link
 Ace Elite Prepaid (Netspend),USD,,5.00%,,,,,,,,,,,,,Quarterly,FDIC,6/30/2022,"Up to $1,000.",https://www.aceeliteprepaid.com/features/savings-account/
 AdelFi CU,USD,,0.10%,1.16%,,,,,0.85%,1.51%,,2.02%,,2.38%,2.53%,Monthly,NCUA,7/13/2022,,https://www.eccu.org/personalbanking/certificate
+Affinity FCU,USD,0.25%,3.50%,,,0.10%,,0.50%,0.75%,1.80%,2.00%,2.25%,2.50%,2.60%,2.85%,Monthly,NCUA,7/25/2022,"CHK: $1,000 minimum. SAV: Up to $5,000 then 0.55%.",https://www.affinityfcu.com/tips-and-tools/rates-and-yields.aspx
 Affirm,USD,,1.25%,,,,,,,,,,,,,Monthly,FDIC,7/18/2022,,https://www.affirm.com/savings
 AHP Servicing,USD/Bonds,,10.00%,,,,,,,,,,,,,Monthly,,7/7/2022,No longer selling bonds.,https://ahpservicing.com/investors/
 Alliant CU,USD,0.25%,1.20%,,,,,,,2.10%,2.40%,2.45%,2.55%,2.65%,3.05%,Monthly,NCUA,7/18/2022,,https://www.alliantcreditunion.org/rates
 Ally,USD,0.25%,1.25%,1.25%,,,,0.60%,1.00%,1.90%,2.40%,2.00%,2.50%,2.00%,2.90%,Monthly,FDIC,7/18/2022,18M CD: Actually 20-months,https://www.ally.com/bank/cd-rates/
 American Express,USD,0.50%,1.15%,,,,,,,2.00%,1.00%,2.40%,1.15%,1.20%,2.90%,Monthly,FDIC,6/29/2022,,https://www.americanexpress.com/en-us/banking/online-savings/cd/?linknav=savings-nav-cd
+Andrews FCU,USD,0.15%,5.00%,0.25%,,,,,1.25%,2.00%,,2.35%,2.45%,2.50%,2.85%,Monthly,NCUA,7/25/2022,"CHK: $1,500 minimum. SAV: Up to $1,000. MM: Tiered rates.",https://www.andrewsfcu.org/Learn/Resources/Rates/Savings-Rates
 Aspiration,USD,,3.00%,,,,,,,,,,,,,Monthly,FDIC,7/13/2022,With spend requirements,https://www.aspiration.com/spendandsave
 Avadian CU,USD,0.05%,0.05%,0.05%,,,,0.10%,0.10%,0.75%,1.00%,1.10%,1.50%,1.75%,2.10%,Quarterly,NCUA,7/7/2022,MM: Tiered rates.,https://avadiancu.com/Rates/Checking-and-Savings-Rates
-Axos Bank,USD,0.70%,0.61%,0.25%,,,,0.20%,0.20%,0.20%,,0.20%,0.20%,0.20%,0.20%,Monthly,FDIC,7/7/2022,CHK: With requirements.,https://www.axosbank.com/Personal
+Axos Bank,USD,0.70%,0.61%,0.25%,,,,0.20%,0.20%,0.20%,,0.20%,0.20%,0.20%,0.20%,Monthly,FDIC,7/7/2022,CHK: With requirements. 1.25% with loan or invest.,https://www.axosbank.com/Personal
 Bank of America,USD,0.01%,0.01%,,,0.03%,0.03%,0.03%,0.03%,0.03%,0.03%,0.03%,0.03%,0.03%,0.03%,Monthly,FDIC,7/10/2022,,https://www.bankofamerica.com/deposits/bank-cds/standard-term-cd/
 Bank Purely,USD,,0.25%,1.50%,,,,,,1.75%,,2.50%,2.50%,,,Monthly,FDIC,7/18/2022,"MM: $25,000 minimum.",https://www.bankpurely.com/purely-cds/
 Bank7,USD,,0.90%,0.90%,,,,,,,,,,,,,FDIC,7/18/2022,,https://www.bank7.com/personal/online-accounts/#per-hromm
 Barclays,USD,,1.40%,,,,,,,2.30%,2.40%,2.60%,2.70%,2.80%,3.20%,Monthly,FDIC,7/18/2022,,https://www.banking.barclaysus.com/online-cds.html?refid=BBDBDBHBS001901&1882819341
-Bask Bank,USD,,1.61%,,,,,,,,,,,,,Monthly,FDIC,7/5/2022,,https://www.baskbank.com/products/interest-savings-account
+Bask Bank,USD,,2.02%,,,,,,,,,,,,,Monthly,FDIC,7/20/2022,,https://www.baskbank.com/products/interest-savings-account
 Betterment,USD,,1.10%,,,,,,,,,,,,,,SIPC,6/28/2022,,https://www.betterment.com/cash-reserve
-Blue FCU,USD,,5.00%,0.05%,,,,,0.25%,0.40%,,0.55%,0.60%,0.80%,1.10%,Monthly,NCUA,6/27/2022,"SAV: Up to $1,000; Monthly fee $4.95",https://www.bluefcu.com/tools-resources/rates/savings-account-rates
+Blue FCU,USD,,5.00%,0.05%,,,,,0.40%,0.55%,,0.80%,0.90%,1.00%,1.30%,Monthly,NCUA,7/20/2022,"SAV: Up to $1,000; Monthly fee $4.95. MM: Tiered rates.",https://www.bluefcu.com/tools-resources/rates/savings-account-rates
 Boeing Employee CU,USD,2.02%,2.02%,0.40%,,,,0.25%,0.30%,0.50%,0.60%,0.70%,0.80%,0.90%,1.00%,Monthly,NCUA,7/7/2022,CHK: Up to $500 then 0.01%. SAV: Up to $500 then 0.25%. With requirement.,https://www.becu.org/-/media/Files/PDF/9115.pdf
-Bread Financial,USD,,1.65%,,,,,,,2.50%,,3.00%,3.25%,3.30%,3.35%,Monthly,FDIC,6/27/2022,,https://savings.breadfinancial.com/account-rates
+Bread Financial,USD,,1.65%,,,,,,,2.50%,,3.00%,3.25%,3.30%,3.35%,Monthly,FDIC,7/20/2022,,https://savings.breadfinancial.com/account-rates
 Brinks Money Prepaid (Netspend),USD,,5.00%,,,,,,,,,,,,,Quarterly,FDIC,6/30/2022,"Up to $1,000",https://www.brinksprepaidmastercard.com/features.shtml#sa
 BrioDirect Bank,USD,,1.80%,0.70%,,0.05%,,0.25%,0.15%,1.80%,1.35%,2.30%,2.45%,0.45%,0.45%,Monthly,FDIC,7/14/2022,,https://www.briodirectbanking.com/high-rate-cds/
 CapitalOne Bank,USD,0.10%,1.20%,,,,,,1.00%,1.90%,2.50%,2.25%,2.50%,2.30%,2.90%,Monthly,FDIC,7/13/2022,,https://www.capitalone.com/bank/cds/online-cds/
-CFG Bank,USD,,,1.87%,,,,,,2.04%,2.52%,,3.17%,,3.37%,Monthly,FDIC,7/19/2022,,https://thecfgbank.com/deposit-rates
+CFG Bank,USD,,,2.05%,,,,,,2.55%,2.85%,,3.25%,,3.50%,Monthly,FDIC,7/22/2022,,https://www.cfg.bank/personal-banking/personal-deposit-rates/#main
 Charles Schwab Bank,USD,0.15%,0.18%,,,1.76%,1.76%,1.76%,2.21%,3.00%,3.00%,,,,,Monthly,FDIC,7/7/2022,,https://www.schwab.com/cash-investments
 Chase,USD,0.01%,0.01%,,,0.01%,0.01%,0.01%,0.01%,0.01%,0.01%,0.01%,0.01%,0.01%,0.01%,Monthly,FDIC,7/7/2022,Relationship rates are 0.01% higher.,https://www.chase.com/
 Chime,USD,,1.00%,,,,,,,,,,,,,Monthly,FDIC,7/18/2022,,https://www.chime.com/savings-account/
+CIBC US,USD,,1.66%,,,,,,0.80%,2.10%,1.55%,1.60%,1.70%,,,Monthly,FDIC,7/20/2022,,https://us.cibc.com/en/agility/agility-savings.html
 CIT Bank,USD,0.10%,1.65%,1.00%,,,,,0.30%,1.85%,0.30%,0.40%,0.40%,0.50%,0.50%,Monthly,FDIC,7/13/2022,,https://www.cit.com/cit-bank/bank/all-products
-Citi,USD,0.05%,1.01%,,,,,0.05%,1.10%,2.00%,2.35%,1.01%,1.01%,1.01%,1.01%,Monthly,FDIC,7/18/2022,,https://online.citi.com/US/ag/current-interest-rates/checking-saving-accounts
+Citi,USD,0.05%,1.40%,,,,,0.05%,1.10%,2.00%,2.35%,1.01%,1.01%,1.01%,1.01%,Monthly,FDIC,7/21/2022,,https://online.citi.com/US/ag/current-interest-rates/checking-saving-accounts
 Citizens Access,USD,,1.75%,,,,,,,1.90%,,2.25%,2.40%,2.55%,3.00%,Monthly,FDIC,7/18/2022,"$5,000 minimum",https://www.secure.citizensaccess.com/Citizens/savings
 CommonWealth Central CU,USD,1.50%,2.00%,0.10%,,,,0.10%,0.35%,0.65%,0.65%,0.80%,0.90%,0.90%,,Monthly,NCUA,7/6/2022,"CHK: Up to $20,000 then 0.05%. With requirements. SAV: Up to $5,000. Reverse tiered rates.",https://www.wealthcu.org/deposit-rates
-CommonWealth CU,USD,0.10%,0.10%,0.05%,,,,,0.15%,0.30%,0.30%,0.35%,0.40%,0.50%,0.60%,Monthly,ASI,6/30/2022,,https://www.cwcu.com/rates
 Commonwealth CU,USD,0.10%,0.15%,0.40%,,,,,0.50%,0.75%,0.85%,0.95%,1.05%,1.10%,1.30%,Monthly,NCUA,7/7/2022,MM: Reverse tiered. CD: 5% Special 24-month and 48-month paid annually. Requires monthly contribution.,https://www.ccuky.org/my-life/rates
+CommonWealth CU,USD,0.10%,0.10%,0.05%,,,,,0.15%,0.30%,0.30%,0.35%,0.40%,0.50%,0.60%,Monthly,ASI,6/30/2022,,https://www.cwcu.com/rates
+ConnectOne Bank,USD,0.05%,1.25%,0.05%,,,,0.25%,0.25%,2.23%,2.47%,1.88%,2.23%,2.32%,2.42%,Monthly,FDIC,7/25/2022,"CHK: $1,000 minimum. SAV: $2,500 minimum with tiered rates. MM: $1,000 minimum with tiered rates.",https://www.connectonebank.com/About/Resources/Rates/Personal-Account-Rates
 Connexus CU,USD,1.75%,0.25%,0.25%,,,,,,1.76%,,2.06%,2.36%,2.66%,2.96%,Monthly,NCUA,7/5/2022,"CHK: With requirements. CD: Minimum $5,000",https://www.connexuscu.org/accounts/share-certificates/
 Consumers CU,USD,4.09%,1.50%,0.30%,,,,0.35%,0.50%,2.25%,0.90%,2.80%,1.05%,1.10%,1.25%,Monthly,NCUA,7/14/2022,CHK: With requirements. SAV: With deposit requirements. MM: Tiered rates.,https://www.myconsumers.org/rates
 Credit Karma,USD,,1.38%,,,,,,,,,,,,,Monthly,FDIC,7/18/2022,,https://www.creditkarma.com/savings/signup
 Customers Bank,USD,1.20%,1.50%,1.50%,,,,,,,0.24%,,,,,Monthly,FDIC,7/12/2022,"CHK: With spend requirement. MM: Minimum $25,000.",https://www.customersbank.com/personal-banking/personal-savings/
 Department of Commerce FCU,USD,2.01%,0.05%,0.60%,,,,,2.22%,1.60%,1.60%,2.18%,2.32%,2.36%,2.40%,Monthly,NCUA,6/30/2022,CHK: With requirements.,https://www.docfcu.org/rates/
 Digital CU,USD,0.20%,6.17%,0.20%,,,,0.10%,0.10%,0.20%,0.20%,0.20%,0.20%,0.20%,0.20%,Monthly,NCUA,7/7/2022,"SAV: Up to $1,000 then 0.16%. MM: Tiered rates.",https://www.dcu.org/about/rates.html
-Discover,USD,,1.10%,1.00%,,,,0.50%,0.75%,1.90%,2.00%,2.25%,2.50%,2.50%,2.90%,Monthly,FDIC,7/7/2022,,https://www.discover.com/online-banking/cd-rates/
+Discover,USD,,1.30%,1.25%,,,,0.50%,0.75%,2.00%,2.50%,2.55%,2.60%,2.70%,3.00%,Monthly,FDIC,7/22/2022,,https://www.discover.com/online-banking/cd-rates/
 E*Trade Bank,USD,,1.40%,,,,,,,,,,,,,Monthly,FDIC,6/20/2022,,https://us.etrade.com/bank/bank-rates#tab_5
 Edward Jones,USD,,0.10%,0.77%,,,,1.80%,2.15%,2.55%,2.75%,3.10%,3.05%,3.30%,3.35%,Monthly,FDIC,7/11/2022,Brokered CDs,https://www.edwardjones.com/us-en/market-news-insights/stock-market-news/current-rates
 EFCU Financial,USD,,0.10%,,,,,,1.50%,1.75%,2.00%,2.25%,2.75%,3.00%,3.25%,Monthly,NCUA,6/30/2022,,https://www.efcufinancial.org/personal-banking/checking-savings/share-certificates/
@@ -49,12 +53,12 @@ Enzo,USD,1.49%,,,,,,,,,,,,,,Monthly,FDIC,7/19/2022,,https://www.joinenzo.com/
 Fair,USD,,,4.00%,,,,,,,,,,,,Monthly,SIPC,7/19/2022,,https://bankwithfair.com/wealth-building/
 Fairwinds CU,USD,0.05%,2.02%,0.10%,,,,0.10%,0.30%,0.40%,,0.50%,0.65%,0.75%,1.00%,Monthly,NCUA,7/7/2022,"SAV: Up to $1,000 then 0.05%.",https://www.fairwinds.org/rates.html
 Farm Bureau Bank,USD,0.05%,,0.01%,,,,0.15%,0.20%,1.51%,0.35%,2.02%,1.56%,1.66%,1.77%,Monthly,FDIC,7/12/2022,MM: Tiered rates.,https://www.farmbureau.bank/Resources/Rates/Deposit-Rates
-Fidelity Broker,USD,,0.69%,,,,,1.75%,2.10%,3.00%,3.05%,3.30%,3.55%,3.45%,3.50%,,FDIC,6/28/2022,,https://fixedincome.fidelity.com/ftgw/fi/FILanding?bar=p#tbcds|treasury|cd-new-issue
+Fidelity Broker,USD,,0.82%,,,,,2.25%,2.65%,3.00%,3.15%,3.25%,3.40%,3.50%,3.55%,,FDIC,7/20/2022,,https://fixedincome.fidelity.com/ftgw/fi/FILanding?bar=p#tbcds|treasury|cd-new-issue
 First Foundation Bank,USD,0.15%,1.65%,0.25%,,,,,,0.65%,,0.70%,0.70%,0.80%,0.90%,Monthly,FDIC,6/20/2022,,https://www.firstfoundationinc.com/personal-banking/bank/online-savings?utm_campaign=Online%20Savings%20LP&utm_source=savings
 First National Bank of America,USD,,0.50%,,,,,,,2.15%,,2.60%,2.80%,2.85%,3.00%,Monthly,FDIC,7/10/2022,,https://open.fnba.com/
 First National Bank of SC,USD,0.05%,0.25%,0.05%,0.10%,0.10%,0.10%,0.10%,0.10%,0.30%,0.20%,0.20%,,,,Monthly,FDIC,7/13/2022,,https://www.fnbsc.com/current-rates
-First Tech FCU,USD,0.05%,0.10%,,,,,,0.40%,0.75%,,1.30%,1.50%,,1.75%,Monthly,NCUA,6/30/2022,SAV: Up to 2.0% with qualifications.,https://www.firsttechfed.com/rates
-FNBO Direct,USD,0.15%,1.00%,,,,,,,,,,,,,Monthly,FDIC,7/18/2022,,
+First Tech FCU,USD,0.75%,0.10%,,,,,,0.40%,0.75%,,1.30%,1.50%,,1.75%,Monthly,NCUA,7/20/2022,"CHK: Up to $15,000 with requirements. SAV: Up to 2.0% with requirements.",https://www.firsttechfed.com/rates
+FNBO Direct,USD,0.15%,1.20%,,,,,,,,,,,,,Monthly,FDIC,7/25/2022,,https://www.fnbodirect.com/
 Fundrise,USD/eREIT,,,,,,,2.24%,,,,,,,,Quarterly,,,,https://fundrise.com/
 Gabriels Community CU,USD,4.25%,,,,,,,,,,,,,,Monthly,NCUA,7/5/2022,CHK: With requirements.,https://www.gabrielscu.com/checking/
 Genisys CU,USD,4.07%,0.10%,0.15%,,,,,1.25%,1.50%,1.35%,2.52%,2.02%,2.27%,3.03%,Monthly,NCUA,7/18/2022,"CHK: Up to $7,5000 then 0.15%. MM: Tiered rates.",https://www.genisyscu.org/rates
@@ -63,10 +67,10 @@ Greensboro Municipal FCU,USD,0.25%,0.65%,,,,,0.15%,0.30%,0.60%,0.45%,0.50%,0.60%
 Groundfloor,USD/eREIT,,,,,,,,,11.00%,,,,,,Maturity,,,Varies 6.5% to 15%,https://groundfloor.us/
 Hanscom FCU,USD,,0.50%,,,,,0.45%,0.65%,0.75%,2.15%,0.90%,0.95%,2.50%,1.06%,Monthly,NCUA,7/10/2022,SAV: Special CU Thrive 5.00%. 18M CD: Actually 19-months.,https://www.hfcu.org/rates/account-rates.html
 H-E-B Debit (Netspend),USD,,6.00%,,,,,,,,,,,,,Quarterly,FDIC,6/28/2022,"Up to $2,000",https://www.hebdebit.com
-H-E-B FCU,USD,,0.05%,0.05%,,,,0.04%,0.09%,0.17%,,0.25%,0.32%,,0.46%,Monthly,NCUA,6/21/2022,,https://www.hebfcu.org/home/deposit-rates
+H-E-B FCU,USD,,0.05%,0.05%,,,,0.04%,0.09%,0.17%,,0.25%,0.32%,,0.46%,Monthly,NCUA,7/20/2022,,https://www.hebfcu.org/home/deposit-rates
 H-E-B Prepaid (Netspend),USD,,5.00%,,,,,,,,,,,,,Quarterly,FDIC,6/28/2022,"Up to $1,000",https://www.hebprepaid.com/
 HMBradley,USD,,3.00%,,,,,,,,,,,,,Monthly,FDIC,7/7/2022,"SAV: Up to $100,000. Tiered rates with requirements.",https://www.hmbradley.com/products/save-more
-Ivy Bank,USD,,1.70%,,,,,,,1.85%,,,2.50%,,2.60%,Monthly,FDIC,7/7/2022,"SAV: $2,500 min",https://www.ivybank.com/savings
+Ivy Bank,USD,,1.90%,,,,,,,1.85%,,,2.50%,,2.60%,Monthly,FDIC,7/22/2022,"SAV: $2,500 min",https://www.ivybank.com/savings
 La Capitol FCU,USD,4.25%,0.10%,,,,,0.25%,1.00%,0.65%,1.92%,2.27%,2.32%,2.43%,2.58%,Monthly,NCUA,7/6/2022,"CHK: Tiered up to $3,000 4.25%, $3,000 - $10,000 2.67%, $10,000+ 0.10%",https://www.lacapfcu.org/current-share-rates
 Lake Michigan CU,USD,3.00%,0.10%,0.25%,,,,0.15%,0.15%,0.30%,0.35%,0.60%,0.75%,0.90%,1.25%,Monthly,NCUA,7/19/2022,"CHK: Up to $15,000 with requirements. MM: $2,500 minimum.",https://www.lmcu.org/personal/banking/checking-accounts/max-checking/
 Laurel Road,USD,,1.00%,,,,,,,,,,,,,Monthly,FDIC,7/18/2022,,https://www.laurelroad.com/high-yield-savings-account/
@@ -74,11 +78,12 @@ Lending Club Bank,USD,0.10%,1.52%,,,,,,,2.01%,2.25%,2.50%,2.75%,,2.95%,Monthly,F
 Lili,USD,,1.00%,,,,,,,,,,,,,Monthly,FDIC,6/30/2022,,https://lili.co/automatic-savings
 Lions Share FCU,USD,0.05%,0.10%,0.15%,,,,,0.20%,0.30%,,0.40%,,,,Quarterly,NCUA,6/30/2022,,https://www.lionsharecu.org/rates/
 Live Oak Bank,USD,,1.40%,,,,,,1.50%,2.20%,2.35%,2.50%,2.65%,2.80%,3.00%,Monthly,FDIC,7/12/2022,,https://www.liveoakbank.com/personal-banking/
+M1 Finance,USD,1.30%,,,,,,,,,,,,,,Monthly,FDIC,7/25/2022,,https://m1.com/spend/checking/
 Main Street Bank,USD,0.70%,0.35%,0.15%,,,,0.15%,1.76%,0.25%,0.35%,2.53%,3.04%,0.50%,0.60%,Monthly,FDIC,6/30/2022,6M CD: Actually 7-months. 24M CD: Actually 25-months. 36M CD: Actually 35-months.,https://www.bankmainstreet.com/personal/deposit-rates/
-Marcus,USD,,1.20%,,,,,,1.05%,1.90%,2.00%,2.25%,2.50%,2.50%,2.90%,Monthly,FDIC,7/5/2022,,https://www.marcus.com/us/en/savings/high-yield-cds
+Marcus,USD,,1.20%,,,,,,1.05%,1.90%,2.00%,2.25%,2.50%,2.50%,2.90%,Monthly,FDIC,7/21/2022,,https://www.marcus.com/us/en/savings/high-yield-cds
 Merchants Bank of Indiana,USD,,,1.51%,,1.36%,,1.36%,1.36%,2.02%,1.51%,2.02%,2.02%,,,Monthly,FDIC,7/19/2022,,https://www.merchantsbankofindiana.com/certificates-of-deposit/
 MLB Prepaid (Netspend),USD,,5.00%,,,,,,,,,,,,,Quarterly,FDIC,6/28/2022,"Up to $1,000",https://www.netspend.com/prepaid-debit/features/mlb
-My Banking Direct,USD,,2.00%,0.05%,,,,,,2.50%,,2.75%,,,,Monthly,FDIC,7/18/2022,MM: Tiered rates.,https://www.mybankingdirect.com/Products/CD
+My Banking Direct,USD,,2.02%,0.05%,,,,,,2.50%,,2.75%,,,,Monthly,FDIC,7/20/2022,MM: Tiered rates.,https://www.mybankingdirect.com/Products/CD
 MySavingsDirect,USD,,0.75%,,,,,,0.65%,,1.25%,1.25%,1.25%,1.25%,2.00%,Monthly,FDIC,7/5/2022,,https://www.mysavingsdirect.com/
 Nasa FCU,USD,,0.10%,0.00%,,,,,0.95%,1.10%,2.50%,1.35%,1.45%,3.00%,1.65%,Monthly,NCUA,6/30/2022,18M CD: Actually 15-months,https://www.nasafcu.com/rates-and-fees
 Navy FCU,USD,0.05%,0.40%,0.50%,,,,0.40%,0.45%,3.00%,1.40%,1.40%,2.25%,,2.80%,Monthly,NCUA,7/5/2022,"12M CD: Up to $3,000.",https://www.navyfederal.org/checking-savings/savings/savings-resources/certificate-rates.html#long-term
@@ -91,10 +96,10 @@ Patelco CU,USD,0.05%,0.05%,1.00%,,,,0.25%,0.40%,0.75%,1.25%,1.25%,1.35%,1.50%,2.
 PayPal,USD,,1.40%,,,,,,,,,,,,,Monthly,FDIC,7/13/2022,,https://www.paypal.com/us/digital-wallet/manage-money/start-saving
 PayPal Prepaid Mastercard (Netspend),USD,,5.00%,,,,,,,,,,,,,Quarterly,FDIC,6/28/2022,"Up to $1,000; Monthly fee $4.95",https://www.paypal-prepaid.com/
 PenFed CU,USD,0.15%,1.00%,0.15%,,,,,0.95%,2.00%,2.25%,2.50%,2.65%,2.75%,3.00%,Monthly,NCUA,7/18/2022,CHK: Tiered rate.,https://www.penfed.org/
-Personal Capital Cash,USD,,1.40%,,,,,,,,,,,,,Monthly,FDIC,6/27/2022,,https://www.personalcapital.com/cash
+Personal Capital Cash,USD,,1.40%,,,,,,,,,,,,,Monthly,FDIC,7/20/2022,,https://www.personalcapital.com/cash
 PNC Bank,USD,0.01%,0.01%,0.02%,,0.02%,,0.02%,0.02%,0.04%,0.03%,0.03%,0.03%,0.02%,0.03%,Monthly,FDIC,6/30/2022,,https://www.pnc.com/en/rates/virtual-wallet/29485/NA
 Popular Direct,USD,,1.15%,,,,,0.50%,1.25%,2.10%,2.42%,2.75%,3.02%,3.05%,3.25%,Monthly,FDIC,7/7/2022,"SAV: $5,000 minimum. CDs: $10,000 minimum.",https://www.populardirect.com/products/cds/
-Porte Bank,USD,,3.00%,,,,,,,,,,,,,Monthly,FDIC,6/27/2022,"Up to $15,000. With requirements.",https://www.joinporte.com/savings-account/
+Porte Bank,USD,,3.00%,,,,,,,,,,,,,Monthly,FDIC,7/20/2022,"Up to $15,000. With requirements.",https://www.joinporte.com/savings-account/
 Premier Members CU,USD,1.00%,0.05%,2.00%,,,,,0.15%,0.30%,0.30%,0.40%,0.50%,0.55%,0.65%,Monthly,NCUA,6/29/2022,"Checking up to $2,000; MM: Up to $2,000",https://www.pmcu.org/personal/rates/
 Presidential Bank,USD,0.12%,0.15%,0.25%,,0.10%,0.10%,0.10%,0.65%,1.15%,,1.20%,1.25%,1.30%,,Monthly,FDIC,7/6/2022,,https://www.presidential.com/Personal-Banking/Checking-Savings/Rates-Yields
 Prime Alliance Bank,USD,0.05%,1.55%,1.55%,,,,,1.20%,1.85%,2.00%,2.30%,2.50%,2.55%,2.75%,Quarterly,FDIC,6/27/2022,,https://www.primealliance.bank/cds#1
@@ -102,7 +107,8 @@ Prize Pool,USD,,0.30%,,,,,,,,,,,,,Monthly,FDIC,7/13/2022,Plus prizes,https://get
 PSECU,USD,0.05%,0.05%,0.10%,,,,0.45%,0.50%,0.65%,0.80%,0.90%,1.00%,1.10%,1.20%,Monthly,NCUA,7/7/2022,MM: Tiered rates.,https://www.psecu.com/rates
 PurePoint Financial,USA,,0.40%,,,,,,0.15%,0.25%,1.25%,1.01%,1.50%,1.50%,2.00%,Monthly,FDIC,7/7/2022,"Minimum $10,000.",https://www.purepoint.com/online-banking/certificates-of-deposit/high-yield
 Quontic Adaptive Digital Bank,USD,1.10%,1.85%,1.85%,,,,,2.00%,2.55%,,3.00%,3.10%,,3.30%,Monthly,FDIC,7/14/2022,,https://www.quontic.com/certificates-of-deposit/
-Redstone FCU,USD,,2.02%,0.15%,,,,,0.20%,0.50%,0.60%,1.00%,1.25%,1.50%,1.76%,Quarterly,NCUA,6/21/2022,"SAV: Up to $2,500.",https://www.redfcu.org/personal/tool-discounts/rfcu-rates/
+Redneck Bank,USD,2.25%,,1.75%,,,,,,,,,,,,Monthly,FDIC,7/22/2022,"CHK: Up to $10,000 with requirements, then 0.25%. MM: Up to $50,000 then 0.25%.",https://redneck.bank/
+Redstone FCU,USD,,2.02%,0.15%,,,,,0.20%,0.50%,0.60%,1.00%,1.25%,1.50%,1.76%,Quarterly,NCUA,7/20/2022,"SAV: Up to $2,500. MM: Tiered rates.",https://www.redfcu.org/personal/tool-discounts/rfcu-rates/
 Regions Bank,USD,,0.01%,0.01%,0.01%,0.01%,0.01%,0.01%,0.03%,0.03%,0.03%,1.35%,1.50%,0.05%,0.05%,Monthly,FDIC,7/13/2022,,https://www.regions.com/Rates.rf
 REV FCU,USD,2.00%,0.01%,0.00%,,,,0.05%,0.10%,0.20%,,0.35%,0.45%,0.55%,0.70%,Monthly,NCUA,7/19/2022,"CHK: Up to $20,000 with requirements.",https://www.revfcu.com/rates/
 Rising Bank,USD,0.30%,1.20%,,,,,,,2.00%,2.23%,2.75%,3.05%,,,Quarterly,FDIC,6/29/2022,,https://www.risingbank.com/rates
@@ -123,8 +129,9 @@ Stairs by Groundfloor,USD,,6.00%,,,,,,,,,,,,,Weekly,,7/7/2022,SAV: Base rate is 
 Star One CU,USD,0.10%,0.80%,0.80%,,,,,0.90%,1.10%,,1.30%,,,,Monthly,NCUA,7/6/2022,,https://www.starone.org/rates/
 State Employees CU of NC,USD,0.05%,0.10%,0.30%,,,,,0.50%,0.55%,0.55%,0.60%,0.70%,0.70%,0.75%,Monthly,NCUA,7/13/2022,,https://www.ncsecu.org/RatesAndFees/ShareandDepositRates.html
 STCU,USD,,5.09%,0.10%,,,,,0.25%,0.25%,0.50%,0.25%,0.25%,0.25%,0.80%,Monthly,NCUA,7/19/2022,"SAV: Up to $500. CDs: Rates higher with $2,000 deposit.",https://webapps.stcu.org/rates/Certificates.aspx
-Synchrony Bank,USD,,1.40%,0.90%,,,,0.80%,1.30%,2.00%,2.25%,2.40%,2.60%,2.60%,3.10%,Monthly,FDIC,7/10/2022,,https://www.synchronybank.com/
-TAB Bank,USD,,1.26%,0.25%,,,,,1.20%,1.85%,2.00%,2.30%,2.50%,2.55%,2.75%,Monthly,FDIC,7/5/2022,,https://www.tabbank.com/high-yield-savings/
+Synchrony Bank,USD,,1.65%,1.10%,,,,1.00%,1.50%,2.30%,2.65%,2.60%,2.80%,2.80%,3.25%,Monthly,FDIC,7/22/2022,,https://www.synchronybank.com/
+TAB Bank,USD,,1.68%,0.25%,,,,,1.75%,2.35%,2.50%,2.85%,3.05%,3.10%,3.25%,Monthly,FDIC,7/22/2022,,https://www.tabbank.com/high-yield-savings/
+T-Bills,USD,,,,,2.15%,2.26%,2.44%,3.00%,3.11%,,3.10%,3.07%,,3.00%,Maturity,USG,7/22/2022,,https://ycharts.com/indicators/3_month_t_bill
 TD Bank,USD,0.00%,0.02%,,,,,0.05%,0.05%,0.05%,0.05%,0.05%,0.05%,0.05%,0.05%,Monthly,FDIC,7/5/2022,,https://www.td.com/us/en/personal-banking/certificates-of-deposit/
 Technology CU,USD,0.00%,0.20%,0.00%,,,,0.30%,0.45%,1.50%,1.60%,1.70%,1.80%,1.90%,2.30%,Monthly,NCUA,7/5/2022,,https://www.techcu.com/Resources/Rates/
 Telco Community CU,USD,2.00%,0.15%,0.15%,,,,,0.50%,0.55%,0.55%,0.60%,0.70%,,,Monthly,NCUA,7/5/2022,"Up to $10,000 with 15 PoS transactions",https://www.telcoccu.org/rates
@@ -145,6 +152,7 @@ Varo Bank,USD,,1.20%,,,,,,,,,,,,,Monthly,FDIC,7/11/2022,"Up to $5,000 at 5% APY 
 Vio Bank,USD,,0.75%,1.65%,,,,,0.10%,2.00%,2.25%,2.35%,2.45%,2.50%,2.50%,Monthly,FDIC,7/18/2022,,https://www.viobank.com/
 Wells Fargo,USD,0.00%,0.01%,,,,,0.01%,0.02%,0.02%,,,,,,Monthly,FDIC,7/5/2022,,https://www.wellsfargo.com/savings-cds/rates/
 Western Union Prepaid (Netspend),USD,,5.00%,,,,,,,,,,,,,Quarterly,FDIC,6/28/2022,"Up to $1,000",https://www.wunetspendprepaid.com/
+Western Vista CU,USD,3.00%,0.03%,0.03%,,,,,0.26%,1.60%,2.10%,2.35%,1.08%,1.21%,1.39%,Monthly,NCUA,7/20/2022,"CHK: Up to $15,000 with requirements. MM: $2,500 minimum. Tiered rates.",https://www.wvista.com/rates/
 Wings FCU,USD,2.02%,0.15%,0.00%,,,,0.65%,0.80%,1.05%,,1.20%,1.36%,2.42%,1.71%,Monthly,NCUA,7/10/2022,"CHK: Up to $25,000 with requirements. CDs: Tiered rates.",https://www.wingsfinancial.com/rates
 Worchester CU,USD,1.50%,0.50%,0.05%,,,,,0.10%,0.20%,,0.30%,0.35%,,,Monthly,NCUA,7/7/2022,"CHK: Up to $25,000. MM: Tiered rates.",https://www.worcestercu.com/services-tools/tools/rates.html
 Workers CU,USD,1.26%,3.56%,0.25%,,,,0.20%,0.25%,0.30%,0.35%,0.40%,0.50%,0.60%,0.70%,Monthly,NCUA,7/6/2022,CHK: With requirements. SAV: Reverse tiered rates. 0.05% more with monthly $50 deposit.,https://www.wcu.com/about-us/rates/deposit/
