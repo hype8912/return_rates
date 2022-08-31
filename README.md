@@ -1,6 +1,6 @@
 # Return Rates
 
-A collection of deposit rates for banks, crypto, and other institutions I've accumulated since COVID. The information contained here is focused for the average consumer. If you have $100,000 you may have to dig into the rates more for higher interest. I currently do not list rates for youth, student, business, HSA, or IRA accounts. This may become available in the future.
+A collection of deposit rates for banks, crypto, and other institutions I've accumulated since January 2020. The information contained here is focused for the average consumer. If you have $100,000 you may have to dig into the rates more for higher interest. I currently do not list rates for youth, student, business, HSA, or IRA accounts. This may become available in the future.
 
 ## Assumptions
 
@@ -16,7 +16,7 @@ For example, if an institution offers a 12-month CD at 0.50% but offers a promot
 
 Not all institutions offer all the terms listed just as not all institutions offer the account types listed.
 
-Some institutions offer what are called Jumbo accounts or Super-Jumbo accounts. Usually the minimum deposit amount for a Jumbo account is $100,000. The usually minimum amount for a Super-Jumbo account is $250,000.
+Some institutions offer what are called Jumbo accounts or Super-Jumbo accounts. Usually the minimum deposit amount for a Jumbo account is $100,000. The usual minimum amount for a Super-Jumbo account is $250,000.
 
 ## Terms
 
@@ -28,9 +28,9 @@ Tiered rates are rates that ascend as the money in the account increases. See th
 
 | Amount | APY |
 | ------ | --- |
-| $0 - $500 | 1.0% |
-| $501 - $10,000 | 3.0% |
-| $10,001 - $25,000 | 4.0% |
+| $0 - $500 | 1.00% |
+| $501 - $10,000 | 3.00% |
+| $10,001 - $25,000 | 4.00% |
 
 #### Reverse Tiered Rates
 
@@ -38,15 +38,15 @@ Reverse tiered rates are rates that descend as the money in the account increase
 
 | Amount | APY |
 | ------ | --- |
-| $0 - $500 | 6.0% |
-| $501 - $5,000 |2.0% |
-| $5,001 - $10,000 | 1.0% |
+| $0 - $500 | 6.00% |
+| $501 - $5,000 |2.00% |
+| $5,001 - $10,000 | 1.00% |
 
 ### With Requirements
 
 With requirements can mean multiple things. These are usually seen on checking accounts.
 
-**Spend requirement**: You must spend a pre-determined amount of money in the specidied time period.
+**Spend requirement**: You must spend a pre-determined amount of money in the specified time period.
 
 **Transaction requirement**: You must perform a pre-determined amount of Point of Sale transactions in the specified time period. This may include debit card and/or credit card transactions.
 
@@ -54,7 +54,7 @@ With requirements can mean multiple things. These are usually seen on checking a
 
 **Direct deposit requirement**: Your deposits must come from a payroll deposit or government agency paying benefits. Some institutions will consider deposits from specific accounts as a direct deposit. I recommend checking out [Doctor of Credit list of Banks](https://www.doctorofcredit.com/knowledge-base/list-methods-banks-count-direct-deposits/) to see what others have said worked in the past.
 
-**eStatements requirement**: You must sign up for electronic bank statements. This means you will not receive a paper bank statement. You may still receive paper end of year tax statements.
+**eStatements requirement**: You must sign up for electronic bank statements. This means you will not receive a paper bank statement. You may still receive a paper end of year tax statements.
 
 **Savings requirement**: You must save a percentage of the amount deposited per time period. For example, if an institution requires a 10% savings requirement and you deposit $100, then you must move $10 to the required account.
 
