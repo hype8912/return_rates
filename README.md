@@ -2,6 +2,8 @@
 
 A collection of deposit rates for banks, crypto, and other institutions I've accumulated since January 2020. The information contained here is focused for the average consumer. If you have $100,000 you may have to dig into the rates more for higher interest. I currently do not list rates for youth, student, business, HSA, or IRA accounts. This may become available in the future.
 
+[Sortable Table Viewer](https://codepen.io/hype8912/full/JjvPGgz)
+
 ## Assumptions
 
 **Checking (CHK)**: If a financial institution offers multiple accounts then I try to select the one with no fees. You may be required to keep a small amount in the account to avoid fees at some financial institutions.
@@ -22,7 +24,7 @@ Some institutions offer what are called Jumbo accounts or Super-Jumbo accounts. 
 
 Below you will find terms used in the notes column.
 
-#### Tiered Rates
+### Tiered Rates
 
 Tiered rates are rates that ascend as the money in the account increases. See the table below for an example.
 
@@ -32,7 +34,7 @@ Tiered rates are rates that ascend as the money in the account increases. See th
 | $501 - $10,000 | 3.00% |
 | $10,001 - $25,000 | 4.00% |
 
-#### Reverse Tiered Rates
+### Reverse Tiered Rates
 
 Reverse tiered rates are rates that descend as the money in the account increases. See the table below for an example.
 
@@ -69,6 +71,32 @@ The maximum amount of money the rate listed will be paid out for. Any money over
 Bank 1 offers 5.0% up to $1,000 and then offers 0% on any amount over $1,000.
 
 Bank 2 offers 4.0% up to $4,000 and then offers 1.5% on any amount over $4,000.
+
+## Abbreviations
+
+**#M**: Represents a Certificate of Deposit time frame. For example, 6M indicates a 6-month certificate of deposit.
+
+**ASI**: American Share Insurance
+
+**CD**: Certificate of Deposit
+
+**CHK**: Fiat/Checking
+
+**CU**: Credit Union
+
+**FCU**: Federal Credit Union
+
+**FDIC**: Federal Deposit Insurance Corporation
+
+**MM**: Money Market. Could be Money Market Checking or Money Market Savings account.
+
+**NCUA**: National Credit Union Administration
+
+**SAV**: Flexible/Savings
+
+**SIPC**: Securities Investor Protection Corporation
+
+**USG**: United States Government
 
 ## Disclaimer
 
