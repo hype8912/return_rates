@@ -1,6 +1,6 @@
 # Return Rates
 
-A collection of deposit rates for banks, crypto, and other institutions I've accumulated since January 2020. The information contained here is focused for the average consumer. If you have $100,000 you may have to dig into the rates more for higher interest. I currently do not list rates for youth, student, business, HSA, or IRA accounts. This may become available in the future.
+A collection of deposit rates for banks, crypto, and other institutions I've accumulated since January 2020. The information contained here is focused for the average consumer. If you have $100,000 you may have to dig into the rates more for higher interest. I currently do not list rates for business, HSA, or IRA accounts. This may become available in the future. I've recently started tracking youth and student accounts. The data will start to be populated.
 
 [Sortable Table Viewer](https://codepen.io/hype8912/full/JjvPGgz)
 
@@ -8,7 +8,7 @@ A collection of deposit rates for banks, crypto, and other institutions I've acc
 
 **Checking (CHK)**: If a financial institution offers multiple accounts then I try to select the one with no fees. You may be required to keep a small amount in the account to avoid fees at some financial institutions.
 
-**Savings (SAV)**: TBD
+**Savings (SAV)**: If a financial institution offers multiple accounts then I try to select the account with the least amount of requirements with the highest rate. If a financial institution does or does not offer a savings account but then offers a No-Penalty CD or a No-Penalty CD with a higher rate. I will typically list the No-Penalty CD rate as the Savings rate and add a note. 
 
 **Money Market (MM)**: I try to focus rates for money market accounts with under $10,000. Any minimum amounts over $10,000 will be noted.
 
@@ -26,7 +26,7 @@ Below you will find terms used in the notes column.
 
 ### Tiered Rates
 
-Tiered rates are rates that ascend as the money in the account increases. See the table below for an example.
+Tiered rates are rates that ascend as the amount of money in the account increases. See the table below for an example.
 
 | Amount | APY |
 | ------ | --- |
@@ -36,7 +36,7 @@ Tiered rates are rates that ascend as the money in the account increases. See th
 
 ### Reverse Tiered Rates
 
-Reverse tiered rates are rates that descend as the money in the account increases. See the table below for an example.
+Reverse tiered rates are rates that descend as the amount of money in the account increases. See the table below for an example.
 
 | Amount | APY |
 | ------ | --- |
@@ -80,7 +80,7 @@ Bank 2 offers 4.0% up to $4,000 and then offers 1.5% on any amount over $4,000.
 
 **CD**: Certificate of Deposit
 
-**CHK**: Fiat/Checking
+**CHK**: Fiat/Checking account
 
 **CU**: Credit Union
 
@@ -92,11 +92,15 @@ Bank 2 offers 4.0% up to $4,000 and then offers 1.5% on any amount over $4,000.
 
 **NCUA**: National Credit Union Administration
 
-**SAV**: Flexible/Savings
+**SAV**: Flexible/Savings account
 
 **SIPC**: Securities Investor Protection Corporation
 
 **USG**: United States Government
+
+**YCHK**: Youth or child Checking account
+
+**YSAV**: Youth or child Savings account
 
 ## Disclaimer
 
